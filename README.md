@@ -9,7 +9,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-
+<br>
+ <p align="center">
+  <a href="https://nlw-copa-gamma.vercel.app/">Deploy do projeto</a>
+</p>
 
 
 <br>
