@@ -82,8 +82,6 @@ header .class-colors {
   height: 35px;
   border: 1px;
   border-radius: 15%;
-  color: white;
-  background-color:  rgb(49, 85, 49);;
 }
 
 .class-colors :nth-child(1):hover {
