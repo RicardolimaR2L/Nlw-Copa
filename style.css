@@ -78,40 +78,22 @@ header .class-colors {
 }
 
 .class-colors :nth-child(1) {
-  width: 50px;
+  width: 35px;
   height: 35px;
   border: 1px;
-  border-radius: 15%;
+  border-radius: 50%;
+  background-color: rgb(49, 85, 49);
 }
 
-.class-colors :nth-child(1):hover {
-  background-color: rgb(49, 85, 49);
-  color: white;
-}
 
 .class-colors :nth-child(2) {
-  width: 50px;
+  width: 35px;
   height: 35px;
   border: 1px;
-  border-radius: 15%;
-}
-
-.class-colors :nth-child(2):hover {
+  border-radius: 50%;
   background-color: rgb(23, 19, 97);
-  color: white;
 }
 
-.class-colors :nth-child(3) {
-  width: 50px;
-  height: 35px;
-  border: 1px;
-  border-radius: 15%;
-}
-
-.class-colors :nth-child(3):hover {
-  background-color:rgb(195, 195, 74);
-  color: white;
-}
 
 #cards {
   display: flex;
