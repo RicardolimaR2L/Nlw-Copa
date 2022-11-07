@@ -17,7 +17,8 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
-![image](https://user-images.githubusercontent.com/92691384/200190631-8e993436-a439-4536-8a0c-56b2caec6b39.png)
+![image](https://user-images.githubusercontent.com/92691384/200344179-f6e99a5c-0f67-4bb9-a498-5b8417685d20.png)
+
 
 
 ## 🚀 Tecnologias
