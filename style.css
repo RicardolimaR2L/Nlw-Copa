@@ -83,6 +83,7 @@ header .class-colors {
   border: 1px;
   border-radius: 50%;
   background-color: rgb(49, 85, 49);
+  cursor: pointer;
 }
 
 
@@ -92,6 +93,7 @@ header .class-colors {
   border: 1px;
   border-radius: 50%;
   background-color: rgb(23, 19, 97);
+  cursor: pointer;
 }
 
 
